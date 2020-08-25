@@ -18,10 +18,10 @@ How is the school summary affected?
 
 
 #### Per School Summary before the removal of Thomas High School ninth grader scores
-![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_before_replace.png)
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_before.png)
 
 #### Per School Summary after the removal of Thomas High School ninth grader scores
-![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_after_replace.png)
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_after.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 When the ninth grade scores were replaced with NaNs the school's overall passing percentage was reducded to 
