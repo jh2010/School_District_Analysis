@@ -4,15 +4,15 @@
 The school board found altered reading and math scores in the **students_complete.csv** file for Thomas High School ninth graders. The reading and math scores will be replaced with NaNs and the school district analysis will be re-run. A written explaination will be given below with a description of how the changes affected the overall analysis.
 
 ## Results
-How is the district summary affected?
+* How is the district summary affected?
+The **Average Math Score** was lowered by 1/10 of a percent after removing the Thomas High School ninth graders.  The **Average Reading Score** was unaffected.  
+The **% Passing Math** was lowered by 2/10 of a percent after removing the Thomas High School ninth graders. The **% Passing Reading** was lowered by 3/10 of a percent after removing the Thomas High School ninth graders. The **% Overall Passing** was lowered by 1/10 of a percent after removing the Thomas High School ninth graders. 
 
+#### Distric Summary before the removal of Thomas High School ninth grader scores
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/district_summary_before.png)
 
-   "Average Math Score": average_math_score, 
-          "Average Reading Score": average_reading_score,
-          "% Passing Math": passing_math_percentage,
-         "% Passing Reading": passing_reading_percentage,
-        "% Overall Passing": overall_passing_percentage}])
-
+#### Distric Summary after the removal of Thomas High School ninth grader scores
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/district_summary_after.png)
 
 How is the school summary affected?
 
