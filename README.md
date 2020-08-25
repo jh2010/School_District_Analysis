@@ -16,6 +16,13 @@ The **% Passing Math** was lowered by 2/10 of a percent after removing the Thoma
 
 How is the school summary affected?
 
+
+#### Per School Summary before the removal of Thomas High School ninth grader scores
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_before.png)
+
+#### Per School Summary after the removal of Thomas High School ninth grader scores
+![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_after.png)
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 How does replacing the ninth-grade scores affect the following:
