@@ -52,7 +52,7 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     ##### School type before replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_before_replace.png)
     
-    ##### School type after replacing ninth grade scores with NaNs
+    ###### School type after replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_after_replace.png)
 
 ## Summary
