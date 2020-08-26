@@ -33,10 +33,10 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     The report shows a NaN for the ninth-grade math and reading scores.  This will affect the average math and reading scores for all ninth graders in the           district.
 
   * Scores by school spending
-    ####School spending ranges before replacing ninth grade scores with NaNs
+    #### School spending ranges before replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png)
     
-    ####School spending ranges after replacing ninth grade scores with NaNs
+    #### School spending ranges after replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after.png)
 
   * Scores by school size
