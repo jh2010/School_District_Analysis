@@ -34,7 +34,7 @@ Even though, the ninth grade math and reading scores were replaced with NaNs and
 ### The replacement of the ninth-grade scores affected the following:
 
 #### Math and reading scores by grade
-The report shows a "NaN" for the ninth-grade math and reading scores.  This will affect the average math and reading scores for all ninth graders in the           district.
+The report shows a "NaN" for the ninth-grade math and reading scores.  This will not affect the average math and reading scores for all ninth graders in the           district.
 
 #### Scores by school spending
 The School spending range for Thomas High School remains affected after replacing the ninth grade math and reading scores.
