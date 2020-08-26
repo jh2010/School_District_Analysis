@@ -24,6 +24,8 @@ The **% Passing Math** was lowered by 2/10 of a percent after removing the Thoma
 ###### Per School Summary after the removal of Thomas High School ninth grader scores
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_after.png)
 
+---
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Even though the ninth grade math and reading were replaced with NaNs, and the scores went down slightly, Thomas High School is still ranked in the top five schools.
 
@@ -35,6 +37,7 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     The report shows a NaN for the ninth-grade math and reading scores.  This will affect the average math and reading scores for all ninth graders in the           district.
 
   * Scores by school spending
+    The School spending range for Thomas High School remains affected after replacing the ninth grade math and reading scores.
     ###### School spending ranges before replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png)
     
@@ -42,6 +45,7 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after_replace.png)
 
   * Scores by school size
+    The School size range remains affected after replacing the Thomas High School ninth grade math and reading scores.
     ###### School size ranges before replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_before_replace.png)
     
@@ -49,6 +53,7 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_after_replace.png)
 
   * Scores by school type
+    The School types remains affected after replacing the Thomas High School ninth grade math and reading scores.
     ###### School type before replacing ninth grade scores with NaNs
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_before_replace.png)
     
