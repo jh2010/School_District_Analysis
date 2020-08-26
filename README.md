@@ -34,10 +34,10 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
 
   * Scores by school spending
     ####School spending ranges before replacing ninth grade scores with NaNs
-    https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png
+    ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png)
     
     ####School spending ranges after replacing ninth grade scores with NaNs
-    https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after.png
+    ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after.png)
 
   * Scores by school size
 
