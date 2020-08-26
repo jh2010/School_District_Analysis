@@ -28,15 +28,15 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
 
 * How does replacing the ninth-grade scores affect the following:
 
-* * Math and reading scores by grade
+  * Math and reading scores by grade
 
 
-* * Scores by school spending
+  * Scores by school spending
     The average scores for school spending ranges were affected by
 
-* * Scores by school size
+  * Scores by school size
 
-* * Scores by school type
+  * Scores by school type
 
 
 ## Summary
