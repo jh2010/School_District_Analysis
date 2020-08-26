@@ -37,7 +37,7 @@ Even though, the ninth grade math and reading scores were replaced with NaNs and
 The report shows a "NaN" for the ninth-grade math and reading scores.  This will not affect the average math and reading scores for all ninth graders in the    district.
 
 #### Scores by school spending
-The school spending range for Thomas High School remains affected after replacing the ninth grade math and reading scores.
+The school spending range for Thomas High School remains unaffected after replacing the ninth grade math and reading scores.
 ###### School spending ranges before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png)
     
@@ -45,7 +45,7 @@ The school spending range for Thomas High School remains affected after replacin
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after_replace.png)
 
 #### Scores by school size
-The school size range remains affected after replacing the Thomas High School ninth grade math and reading scores.
+The school size range remains unaffected after replacing the Thomas High School ninth grade math and reading scores.
 ###### School size ranges before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_before_replace.png)
     
@@ -53,7 +53,7 @@ The school size range remains affected after replacing the Thomas High School ni
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_after_replace.png)
 
 #### Scores by school type
-The school types remains affected after replacing the Thomas High School ninth grade math and reading scores.
+The school types remains unaffected after replacing the Thomas High School ninth grade math and reading scores.
 ###### School type before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_before_replace.png)
     
