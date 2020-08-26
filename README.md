@@ -17,7 +17,7 @@ The **% Passing Math** was lowered by 2/10 of a percent after removing the Thoma
 ---
 
 * How is the school summary affected?
-
+The Thomas High School entry in the School summary was slightly affected after replacing the ninth grade math and reading scores.
 ###### Per School Summary before the removal of Thomas High School ninth grader scores
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/per_school_summary_before.png)
 
@@ -61,3 +61,9 @@ Even though the ninth grade math and reading were replaced with NaNs, and the sc
     ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_after_replace.png)
 
 ## Summary
+The 
+
+
+
+
+
