@@ -31,12 +31,12 @@ Even though, the ninth grade math and reading scores were replaced with NaNs and
 
 ---
 
-#### The replacement of the ninth-grade scores affected the following:
+### The replacement of the ninth-grade scores affected the following:
 
-##### Math and reading scores by grade
+#### Math and reading scores by grade
 The report shows a NaN for the ninth-grade math and reading scores.  This will affect the average math and reading scores for all ninth graders in the           district.
 
-##### Scores by school spending
+#### Scores by school spending
 The School spending range for Thomas High School remains affected after replacing the ninth grade math and reading scores.
 ###### School spending ranges before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_before.png)
@@ -44,7 +44,7 @@ The School spending range for Thomas High School remains affected after replacin
 ###### School spending ranges after replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_spending_ranges_after_replace.png)
 
-##### Scores by school size
+#### Scores by school size
 The School size range remains affected after replacing the Thomas High School ninth grade math and reading scores.
 ###### School size ranges before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_before_replace.png)
@@ -52,7 +52,7 @@ The School size range remains affected after replacing the Thomas High School ni
 ###### School size ranges after replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_size_after_replace.png)
 
-##### Scores by school type
+#### Scores by school type
 The School types remains affected after replacing the Thomas High School ninth grade math and reading scores.
 ###### School type before replacing ninth grade scores with NaNs
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_before_replace.png)
