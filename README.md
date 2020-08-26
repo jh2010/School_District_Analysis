@@ -61,9 +61,5 @@ The school types remains unaffected after replacing the Thomas High School ninth
 ![image_name](https://github.com/jh2010/School_District_Analysis/blob/master/images/school_type_after_replace.png)
 
 ## Summary
-The 
-
-
-
-
+After replacing ninth grade scores with NaNs and analyzing the information, we can conclude four major changes in the final results. The following data points we affected: **Average Math Score**, **% Passing Math**, **% Passing Reading** , and **% Overall Passing**.  After these replacements, Thomas High School is still a top ranked school in the district.
 
